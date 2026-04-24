@@ -1,0 +1,5 @@
+Agent_ID,Agent_Name,Gare_ID,Gare_Name,Competences,Statut,Astreinte_ID
+AG001,Pierre Dupont,GA001,Gare de Lyon,Quai;Accueil,ACTIF,AST001
+AG002,Marie Martin,GA002,Gare du Nord,Accueil,ACTIF,AST002
+AG003,Jean Lacroix,GA001,Gare de Lyon,Quai;Securite,ACTIF,AST001
+AG004,Sophie Bernard,GA003,Montparnasse,Maintenance,ACTIF,AST003
